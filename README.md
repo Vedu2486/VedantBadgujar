@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vedant badgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant badgujar" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/vedantbadgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vedant badgujar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedant badgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant badgujar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VedantBadgujar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedant badgujar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
